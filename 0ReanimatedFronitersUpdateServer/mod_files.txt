@@ -1,1 +1,4 @@
+add /raw/character/sonic.pac
+add /raw/character/supersonic.pac
+add /raw/event/scene/bo1xxx.pac
 add mod.ini
