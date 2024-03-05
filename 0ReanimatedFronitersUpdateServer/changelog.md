@@ -9,6 +9,8 @@
   - Combat Animations
     - Basic Kicks: Should no longer randomly clip downward after performing neutral finisher
     - Added New Animations For: Taking Damage, Getting Hit, Landing from Hit, Recovering from Hit
+  - Other Animations
+    - Enhanced the flowing effect on Sonic's Quills to be more wavy
 - Super Sonic
   - Cutscene Animations 
     - Giganto Intro: Tweaked to have more Attitude and Cockiness
