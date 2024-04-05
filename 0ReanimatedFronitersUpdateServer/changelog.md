@@ -1,3 +1,8 @@
+## Reanimated Frontiers V1.3
+- Quick Update
+  - Sonic
+    -New animations for Idle stance, Ilding, Boosting, and Wall Running
+
 ## Reanimated Frontiers V1.2
 - First Update
 - Sonic
