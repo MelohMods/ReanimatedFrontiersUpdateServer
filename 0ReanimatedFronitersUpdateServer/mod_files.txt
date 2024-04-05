@@ -1,4 +1,4 @@
-add /raw/character/sonic.pac
-add /raw/character/supersonic.pac
-add /raw/event/scene/bo1xxx.pac
-add mod.ini
+remove /raw/character/sonic.pac
+remove /raw/character/supersonic.pac
+remove /raw/event/scene/bo1xxx.pac
+remove mod.ini
